@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://krhomme.github.io/blog/"/>
-  <updated>2016-09-06T13:28:06.000Z</updated>
+  <updated>2016-09-06T13:53:23.000Z</updated>
   <id>https://krhomme.github.io/blog/</id>
   
   <author>
@@ -14,6 +14,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>categories</title>
+    <link href="https://krhomme.github.io/blog/2016/09/06/categories/"/>
+    <id>https://krhomme.github.io/blog/2016/09/06/categories/</id>
+    <published>2016-09-06T13:50:46.000Z</published>
+    <updated>2016-09-06T13:53:23.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Tagcloud</title>
+    <link href="https://krhomme.github.io/blog/2016/09/06/tags/"/>
+    <id>https://krhomme.github.io/blog/2016/09/06/tags/</id>
+    <published>2016-09-06T13:19:03.000Z</published>
+    <updated>2016-09-06T14:03:47.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
