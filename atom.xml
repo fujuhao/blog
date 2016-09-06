@@ -4,9 +4,9 @@
   
   <link href="/blog/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2016-09-06T13:28:33.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://krhomme.github.io/blog/"/>
+  <updated>2016-09-06T13:36:48.000Z</updated>
+  <id>https://krhomme.github.io/blog/</id>
   
   <author>
     <name>FuJie</name>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>tags</title>
-    <link href="http://yoursite.com/2016/09/06/tags/"/>
-    <id>http://yoursite.com/2016/09/06/tags/</id>
+    <title>标签</title>
+    <link href="https://krhomme.github.io/blog/2016/09/06/tags/"/>
+    <id>https://krhomme.github.io/blog/2016/09/06/tags/</id>
     <published>2016-09-06T13:19:03.000Z</published>
-    <updated>2016-09-06T13:28:33.000Z</updated>
+    <updated>2016-09-06T13:36:48.000Z</updated>
     
     <summary type="html">
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/08/27/hello-world/"/>
-    <id>http://yoursite.com/2016/08/27/hello-world/</id>
+    <link href="https://krhomme.github.io/blog/2016/08/27/hello-world/"/>
+    <id>https://krhomme.github.io/blog/2016/08/27/hello-world/</id>
     <published>2016-08-26T17:43:41.000Z</published>
     <updated>2016-09-06T13:28:06.000Z</updated>
     
@@ -54,9 +54,9 @@
     </summary>
     
     
-      <category term="Hello" scheme="http://yoursite.com/tags/Hello/"/>
+      <category term="Hello" scheme="https://krhomme.github.io/blog/tags/Hello/"/>
     
-      <category term="World" scheme="http://yoursite.com/tags/World/"/>
+      <category term="World" scheme="https://krhomme.github.io/blog/tags/World/"/>
     
   </entry>
   
